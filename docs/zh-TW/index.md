@@ -72,7 +72,3 @@
 
 - [quote 指令群總覽](./commands/quote/index.md)
 - [quote subscribe](./commands/quote/subscribe.md)
-
-## 參考資料
-
-- [references](../references)
