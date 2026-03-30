@@ -20,4 +20,3 @@
 
 ## 延伸閱讀
 
-- [登入與帳號背景](../../../references/account_info.md)

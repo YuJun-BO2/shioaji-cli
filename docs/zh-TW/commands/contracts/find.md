@@ -87,5 +87,4 @@ python scripts/shioaji_cli.py contracts find --code TXFR1 --market futures
 
 ## 延伸閱讀
 
-- [商品檔與代碼參考](../../../references/futures_mapping.md)
 - [全域參數說明](../../global-options.md)

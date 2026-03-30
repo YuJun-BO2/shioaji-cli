@@ -35,4 +35,3 @@
 
 ## 延伸閱讀
 
-- [帳務欄位詳細表](../../../references/account_info.md)

@@ -27,4 +27,3 @@
 
 ## 延伸閱讀
 
-- [市場資料欄位詳細表](../../../references/market_data.md)

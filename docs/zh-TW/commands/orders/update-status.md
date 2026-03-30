@@ -62,5 +62,4 @@ python scripts/shioaji_cli.py orders update-status
 
 ## 延伸閱讀
 
-- [下單與回報參考](../../../references/order_manager.md)
 - [全域參數說明](../../global-options.md)

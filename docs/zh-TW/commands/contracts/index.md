@@ -22,4 +22,3 @@
 
 ## 延伸閱讀
 
-- [商品檔與代碼參考](../../../references/futures_mapping.md)

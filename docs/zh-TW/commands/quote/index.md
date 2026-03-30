@@ -20,4 +20,3 @@
 
 ## 延伸閱讀
 
-- [即時訂閱背景](../../../references/price_subscriber.md)

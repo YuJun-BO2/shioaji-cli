@@ -62,5 +62,4 @@ python shioaji_cli.py accounts account-margin --account-kind futures --currency 
 
 ## 延伸閱讀
 
-- [帳務欄位詳細表](../../../references/account_info.md)
 - [如何查詢部位列表](positions.md)

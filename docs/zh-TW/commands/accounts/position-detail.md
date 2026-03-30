@@ -60,5 +60,4 @@ python shioaji_cli.py accounts position-detail [參數選項]
 
 ## 延伸閱讀
 
-- [帳務欄位詳細表](../../../references/account_info.md)
 - [主部位查詢](positions.md)

@@ -54,5 +54,4 @@ python shioaji_cli.py accounts pnl-detail [參數選項]
 
 ## 延伸閱讀
 
-- [帳務欄位詳細表](../../../references/account_info.md)
 - [單張損益查詢](pnl.md)
